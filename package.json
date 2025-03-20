@@ -70,7 +70,7 @@
     "type": "git",
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "keywords": [],
+  "keywords": ["npm", "freecodecamp"],
   "author": "Breno",
   "license": "ISC",
   "bugs": {
